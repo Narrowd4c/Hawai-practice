@@ -1,2 +1,2 @@
 # Hawai-practice
-  try Scss
+  練習 Scss
